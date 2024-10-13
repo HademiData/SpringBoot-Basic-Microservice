@@ -21,7 +21,7 @@ The project is composed of the following microservices:
 - **Spring Cloud Gateway**: Acts as an API gateway for routing requests.
 - **Spring Cloud Config**: Manages external configurations for microservices.
 - **Lombok**: To reduce boilerplate code by using annotations.
-- **PostgreSQL**: The database used for persisting data in the Student and School services.
+- **PostgreSQL**: The database used for persisting Student and School services data.
 
 ## Services Overview
 
