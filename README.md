@@ -1,6 +1,6 @@
 # Microservices Project
 
-This project demonstrates a basic microservices architecture using Spring Boot, Spring Cloud, Eureka, Feign, Lombok, and PostgreSQL. It includes separate services for a **Gateway**, **Student**, **School**, **Discovery (Eureka)**, and **Config**. The services are connected using Spring Cloud technologies and communicate with each other to perform various tasks.
+This project demonstrates a basic microservices architecture using Spring Boot, Spring Cloud, Eureka, Feign, Lombok, and PostgreSQL. It includes separate services for a **Gateway**, **Student**, **School**, **Discovery (Eureka)**, and **Config**. The services are connected using Spring Cloud technologies and communicate with each other to perform various tasks. Also all the services are connected and stored in this mono repository.
 
 ## Project Structure
 
