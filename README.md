@@ -13,7 +13,7 @@ The project is composed of the following microservices:
 4. **Discovery Service (Eureka)**: Provides service discovery and registration for all the microservices.
 5. **Config Service**: Centralized configuration server to manage configuration properties for all microservices.
 
-## Technologies Used
+## Technologies
 
 - **Spring Boot**: For creating stand-alone, production-grade Spring-based applications.
 - **Spring Cloud**: Provides tools for building microservices and distributed systems.
