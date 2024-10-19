@@ -6,6 +6,7 @@ This project demonstrates a basic microservices architecture using Spring Boot, 
 
 The project is composed of the following microservices:
 
+
 1. **Gateway Service**: Acts as a reverse proxy and routes requests to the appropriate microservices.
 2. **Student Service**: Manages student-related data and operations.
 3. **School Service**: Manages school-related data and operations.
