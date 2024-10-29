@@ -89,7 +89,6 @@ The project is composed of the following microservices:
    - Access the Gateway Service at [http://localhost:8222](http://localhost:8222) and test the routes for students and schools.
 
 ## Configuration
-
 - **Eureka Configuration**: All services are registered with Eureka using the `application.yml` configuration files.
 - **Database Configuration**: Each microservice has a separate database configuration in `application.yml`.
 - **Spring Cloud Config**: Configuration files for each microservice are stored in a central Git repository managed by the Config Service.
