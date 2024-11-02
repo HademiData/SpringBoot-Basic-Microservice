@@ -112,6 +112,6 @@ This basic project demonstrates a basic microservices architecture using Spring 
 - Integrate with a messaging queue like RabbitMQ for asynchronous communication.
 - Deploy the services using Docker and Kubernetes.
 
-# License
+## License
 
 This project is a tutorial code from Alibou Ali's Microservice Tutorials on YouTube [https://youtu.be/KJ0cSvYj41c?si=1FaOoVfJiT8gs-2y](https://youtu.be/KJ0cSvYj41c?si=1FaOoVfJiT8gs-2y)  for educational purposes and does not include a license.
