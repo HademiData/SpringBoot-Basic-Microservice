@@ -10,6 +10,7 @@ This basic project demonstrates a basic microservices architecture using Spring 
 4. **Discovery Service (Eureka)**: Provides service discovery and registration for all the microservices.
 5. **Config Service**: Centralized configuration server to manage configuration properties for all microservices.
 
+
 ## Technologies
 
 - **Spring Boot**: For creating stand-alone, production-grade Spring-based applications.
